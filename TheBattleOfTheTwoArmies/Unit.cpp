@@ -1,10 +1,10 @@
 #include "Unit.h"
-
+#include <iostream>
 
 
 void Unit::setNewAttack()
 {
-	int healthPercent = health / maxHealth;
+	float healthPercent = health / float(maxHealth);
 	std::random_device rd;
 	std::mt19937 eng(rd());
 	std::uniform_real_distribution<float> dist(healthPercent, 1.2);
