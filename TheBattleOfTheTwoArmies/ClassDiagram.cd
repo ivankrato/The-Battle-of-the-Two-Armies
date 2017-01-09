@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Animation" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABgABAIAAACAAAAgAAAAAAEAQggAQIAABAAAAAAAAA=</HashCode>
+      <FileName>Animation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisplayController" Collapsed="true">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IA4JBgAAEAAAAAAgAAAgECgCASGFEUAJgBUwACYEASA=</HashCode>
+      <FileName>DisplayController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entity" Collapsed="true">
+    <Position X="10.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAYAAACCAAAAABgAQAAAAAIACAAQAAgCABgMOAAAAE=</HashCode>
+      <FileName>Entity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAEgAQgCAEAUAAAAAIAAAAQTiAQAAAAAwBAAAGYAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCQEACACBAgAAAAhAAAAAAQQAAAAAEAABAMkAAgUAA=</HashCode>
+      <FileName>Map.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeleeUnit" Collapsed="true">
+    <Position X="9.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAABAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MeleeUnit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveAnimation" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAgAACAAAAAAAAAAAAAAgAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>MoveAnimation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovingEntity" Collapsed="true">
+    <Position X="14" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAEACAAAAAAAAAAAQAAAAAAAAAIAAAAAAAABAAAA=</HashCode>
+      <FileName>MovingEntity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player" Collapsed="true">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAECAAAAAEgAAAAAAAEABACAUAAEAAAAEgQAAABA=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RangedUnit" Collapsed="true">
+    <Position X="11.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAABAAAAAAAABAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>RangedUnit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RotateAnimation" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAgAAAAIAAAAAAAAAAAAAAAAAAAIIAAAAAACAAAAA=</HashCode>
+      <FileName>RotateAnimation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StaticEntity" Collapsed="true">
+    <Position X="7.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAABAAAAAAQAQAAAAAAAAAAAQAAAAAAAAAAAAAE=</HashCode>
+      <FileName>StaticEntity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Unit" Collapsed="true">
+    <Position X="10.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhQBAIEIAgBQAAIEAAAIAAABAAAQChIAAAAQAAAAg=</HashCode>
+      <FileName>Unit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Settings" Collapsed="true">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAIAAAAAAAAAIACAAAAABAwAAgBABEAAAIAA=</HashCode>
+      <FileName>Settings.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

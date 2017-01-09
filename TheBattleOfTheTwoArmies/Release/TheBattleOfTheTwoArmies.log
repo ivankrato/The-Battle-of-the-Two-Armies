@@ -1,0 +1,46 @@
+﻿  Animation.cpp
+  MeleeUnit.cpp
+  MoveAnimation.cpp
+  DisplayController.cpp
+  Entity.cpp
+  Game.cpp
+  main.cpp
+  Map.cpp
+  MovingEntity.cpp
+  Player.cpp
+  RangedUnit.cpp
+  RotateAnimation.cpp
+  Settings.cpp
+  StaticEntity.cpp
+  Unit.cpp
+  Generating code
+  All 1466 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TheBattleOfTheTwoArmies.vcxproj -> J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\Release\TheBattleOfTheTwoArmies.exe
+  TheBattleOfTheTwoArmies.vcxproj -> J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\Release\TheBattleOfTheTwoArmies.pdb (Full PDB)
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\archer_dark.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\archer_light.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\arrow.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\axe.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\BGTile.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\bush.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\displayBGTile.jpg
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\heal.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\knight_dark.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\knight_light.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\lightning_dark.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\lightning_light.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\orc_dark.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\orc_light.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\rockBig.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\rockCorner.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\rockLong.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\rockSmall.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\sword.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\wizard_dark.png
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Images\wizard_light.png
+  21 File(s) copied
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\settings.csv
+  1 File(s) copied
+  J:\OneDrive\Projekty\Programování\CPP\TheBattleOfTheTwoArmies\TheBattleOfTheTwoArmies\Vera.ttf
+  1 File(s) copied

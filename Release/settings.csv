@@ -1,0 +1,56 @@
+# display settings
+displayResolution;1366;768
+fps;60
+
+# Player settings;Name;R;G;B
+firstPlayer;First Player;255;0;0
+secondPlayer;Second Player;0;0;255
+
+# game settings
+mapDimensions;15;8
+
+# Unit settings;name;attack;hp;bitmap;speed;attack bitmap;effective range (0 is melee)
+Unit;archerLight;10;35;Images\archer_light.png;9;Images\arrow.png;5
+Unit;archerDark;10;35;Images\archer_dark.png;9;Images\arrow.png;5
+Unit;orcLight;20;40;Images\orc_light.png;6;Images\axe.png;0
+Unit;orcDark;20;40;Images\orc_dark.png;6;Images\axe.png;0
+Unit;wizardLight;15;25;Images\wizard_light.png;3;Images\lightning_light.png;6
+Unit;wizardDark;15;25;Images\wizard_dark.png;3;Images\lightning_dark.png;6
+Unit;knightLight;30;70;Images\knight_light.png;4;Images\sword.png;0
+Unit;knightDark;30;70;Images\knight_dark.png;4;Images\sword.png;0
+
+# Static entity settings;name;bitmap;width;height
+Entity;bigRock;Images\rockBig.png;4;4
+Entity;smallRock;Images\rockSmall.png;2;2
+Entity;longRock;Images\rockLong.png;3;2
+Entity;cornerRock;Images\rockCorner.png;3;3
+Entity;bush;Images\bush.png;2;1
+
+# Map settings;x;y;player
+bigRock;3;5
+longRock;5;0
+bush;1;2
+bush;9;4
+bush;0;6
+smallRock;10;6
+cornerRock;12;0
+
+wizardLight;0;0;firstPlayer
+wizardDark;14;7;secondPlayer
+
+archerLight;1;3;firstPlayer
+archerLight;1;5;firstPlayer
+archerLight;2;6;firstPlayer
+archerDark;13;5;secondPlayer
+archerDark;12;3;secondPlayer
+archerDark;11;0;secondPlayer
+archerDark;13;7;secondPlayer
+
+orcLight;3;2;firstPlayer
+orcLight;3;4;firstPlayer
+orcDark;10;3;secondPlayer
+orcDark;10;5;secondPlayer
+
+knightLight;4;3;firstPlayer
+knightLight;2;1;firstPlayer
+knightDark;11;2;secondPlayer
